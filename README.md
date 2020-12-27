@@ -8,7 +8,7 @@ This group project was designed to test our understanding of Software Architectu
 
 ## Part I
 
-Part I generates architectural drivers for the design by reviewing the stakeholders requirements. The drivers generated are: 
+Part I gathers and generates architectural drivers for the design by reviewing the stakeholders requirements. The drivers generated are: 
 - [Use Cases](https://github.com/tiwaojo/Course-Management-System-CMS-/blob/main/Part%20I/Use%20Cases.pdf)
 - [Quality Attbutes](https://github.com/tiwaojo/Course-Management-System-CMS-/blob/main/Part%20I/Quality%20Attributes.pdf)
 - [Constraints](https://github.com/tiwaojo/Course-Management-System-CMS-/blob/main/Part%20I/Constraints.pdf)
